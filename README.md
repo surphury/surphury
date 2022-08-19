@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [https://surphury.codesociety.dev/](https://surphury.codesociety.dev/)
+- 👨‍💻 All of my projects are available at [https://fanciful-druid-61ae3d.netlify.app/](https://fanciful-druid-61ae3d.netlify.app/)
 
 - 💬 Ask me about **React**
 
